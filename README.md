@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
-**LoanGuard** is an innovative web application designed to predict loan default risks and optimize credit limits using advanced machine learning techniques. By analyzing various financial and credit-related factors, LoanGuard provides users with informed risk assessments, aiding both lenders and borrowers in making prudent financial decisions. The App is available on ![LoanGuard](https://loanguard.streamlit.app)
+**LoanGuard** is an innovative web application designed to predict loan default risks and optimize credit limits using advanced machine learning techniques. By analyzing various financial and credit-related factors, LoanGuard provides users with informed risk assessments, aiding both lenders and borrowers in making prudent financial decisions. The App is available on [LoanGuard](https://loanguard.streamlit.app)
 
 ## Table of Contents
 
