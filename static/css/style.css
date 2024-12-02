@@ -1,0 +1,51 @@
+/* static/css/style.css */
+
+/* Customize the sidebar background */
+.sidebar .sidebar-content {
+    background-color: #F0F2F6;
+}
+
+/* Customize buttons */
+.stButton>button {
+    color: white;
+    background-color: #0E4B5B;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 24px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: #097B9A;
+}
+
+/* Customize success messages */
+div[data-testid="metric-container"] > div > div > div > span {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+/* Customize error messages */
+div[data-testid="metric-container"] > div > div > div > span {
+    color: #FF4B4B;
+    font-weight: bold;
+}
+
+/* Customize the main content background */
+.reportview-container .main .block-container {
+    background-color: #FFFFFF;
+    padding: 2rem;
+}
+
+/* Customize text alignment and font */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: #0E4B5B;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    color: #555555;
+}
+
