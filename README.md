@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#Screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,6 +25,24 @@
 - **Interactive Web Application:** User-friendly interface built with Streamlit for real-time risk assessments.
 - **Feature Importance Visualization:** Understand which financial factors most significantly influence loan outcomes.
 - **Model Retraining Interface:** Allows administrators to retrain models with updated data directly from the app.
+
+## Screenshots
+
+![LoanGuard App - Low Risk](https://raw.githubusercontent.com/mbquashie/LoanGuard/main/data/low_risk.png)
+
+*Figure 1: LoanGuard Application displaying a low-risk loan assessment.*
+
+![LoanGuard App - Moderate Risk](https://raw.githubusercontent.com/mbquashie/LoanGuard/main/data/moderate_risk.png)
+
+*Figure 2: LoanGuard Application displaying a moderate-risk loan assessment.*
+
+![LoanGuard App - Risky](https://raw.githubusercontent.com/mbquashie/LoanGuard/main/data/risky.png)
+
+*Figure 3: LoanGuard Application displaying a high-risk loan assessment.*
+
+
+
+
 
 ## Technologies Used
 
